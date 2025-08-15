@@ -9,7 +9,7 @@ This repository contains my professional resume.
 
 ## About
 
-This resume showcases my education, skills, projects, and experiences in the fields of Machine Learning, Software Development, and Computer Science.
+This resume showcases my education, skills, projects, and experiences in the fields of Problem Solving ,Computer science ,Software Development and Machine Learning
 
 ## Usage
 
