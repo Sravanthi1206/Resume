@@ -4,7 +4,7 @@ This repository contains my professional resume.
 
 ## Contents
 
-- `Resume.pdf` – My latest resume in PDF format.
+- Follow this link to get my resume - file with read only access to my resume
 - `README.md` – This file.
 
 ## About
