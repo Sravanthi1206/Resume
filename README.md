@@ -4,7 +4,7 @@ This repository contains my professional resume.
 
 ## Contents
 
-- Follow this link to get my resume - file with read only access to my resume
+- Follow this link to get my resume - file with read only access link to my resume
 - `README.md` – This file.
 
 ## About
